@@ -1,5 +1,8 @@
-### Hi there 👋
+### **Hi there! 😁**
 
+My name is Paula Pompeo from Brazil (🇧🇷). I've been working **with technology** since 2019 and currently I'm  Front-End Developer at [Macai]([https://macaiapp.com/](https://macaiapp.com/)). I'm passionate about learning new things.
+
+Would you like to find me?
 <!--
 **paulapompeo/paulapompeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
