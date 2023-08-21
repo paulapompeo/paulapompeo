@@ -7,26 +7,4 @@ My personal interests revolve around music, animal and human rights.
 
 Would you like to find me?
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/PompeoPaula) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/paulapompeo/) 
-
-
-
-<div>
-<a href="https://github.com/paulapompeo">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulapompeo&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulapompeo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-<!--
-**paulapompeo/paulapompeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/paulapompeo/) 
